@@ -1,0 +1,12 @@
+{
+  "name": "tapsu-bot",
+  "description": "Bloody Telegram bot",
+  "author": "erkamo",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^3.9.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
